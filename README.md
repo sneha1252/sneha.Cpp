@@ -1,2 +1,3 @@
 # sneha.Cpp
 this is my first git repository.
+auther - sneha
